@@ -10,13 +10,34 @@ footer{
 	color: white;
 	width: 100%;
 }
+/*Estilo del footer*/
 .contenido-footer{
 	height: 100%;
 	margin-left: 20%;
 }
-.dspinblock{
+.contenido-left{
 	display: inline-block;
+	width: 70%;
+	margin: 25px 0;
+	padding-right: 5px;
+	border-right: 1px solid white;
 }
-.mtb{
-	margin: 10px 0;
+.contenido-rigth{
+	position: absolute;
+	top: 20px;
+	display: inline-block;
+	margin-left: 5px;
+	font-size: 12px;
+}
+.fl{
+	float: left;
+}
+.fr{
+	float: right;
+}
+.m0{
+	margin: 0;
+}
+.pb4{
+	padding-bottom: 4px;
 }
