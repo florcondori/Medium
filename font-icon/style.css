@@ -18,6 +18,7 @@
   font-variant: normal;
   text-transform: none;
   line-height: 1;
+  color: grey;
 
   /* Better Font Rendering =========== */
   -webkit-font-smoothing: antialiased;
@@ -26,6 +27,7 @@
 
 .icon-home:before {
   content: "\e902";
+  font-size: 40px;
 }
 .icon-office:before {
   content: "\e903";
